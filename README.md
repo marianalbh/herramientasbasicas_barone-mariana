@@ -45,7 +45,7 @@ Contienen 7 variables principales: departamento y provincia de residencia, anio 
 * GitHub
 
 ## Dashboard
-<img width="875" height="499" alt="image" src="https://github.com/user-attachments/assets/d7ac0612-6b40-4b94-9954-72fcd376fde8" />
+<img width="1430" height="811" alt="image" src="https://github.com/user-attachments/assets/440be322-d9ce-4cd0-a728-4f602a055a8e" />
 
 ## Archivos Generados
 *   `dengue_data_procesada_2024.csv`: Dataset limpio y procesado de los casos de dengue de 2024.
